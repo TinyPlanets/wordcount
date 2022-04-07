@@ -1,3 +1,3 @@
-# wordcount
+# Wordcount
 
-# test project to keep my skills up, simple Javascript wordcount
+# Test project to keep my skills up, simple Javascript wordcount
