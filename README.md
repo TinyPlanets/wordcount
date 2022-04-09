@@ -1,3 +1,5 @@
 # Wordcount
 
-# Test project to keep my skills up, simple Javascript wordcount
+Simple word count test JavaScript app:
+
+https://tinyplanets.github.io/wordcount/
